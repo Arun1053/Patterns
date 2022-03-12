@@ -42,7 +42,6 @@ def stringing(s, n):
 
 # to define stars for intended number of rows
 def mul_star(n):
-    star_ = '*' * 9
     if n==3:
         star = '*' * 9
     elif n==2:
