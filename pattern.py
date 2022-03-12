@@ -38,10 +38,6 @@ def stringing(s, n):
             print(str(a[i][j]), end = " ") 
         print() 
 
-# Driver Code 
-# s = "*********"
-
-
 
 
 # to define stars for intended number of rows
